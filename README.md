@@ -36,7 +36,7 @@ If the link is incorrect, clicking the buttons will show a messagebox telling yo
 The progress is (for now) shown in the console. 
 When the download is complete, the desirable media can be found in the `./media/` folder.
 
-https://user-images.githubusercontent.com/22942979/130280008-2b977f32-3ab6-49d6-8e52-a4f1eca08c58.mov
+https://user-images.githubusercontent.com/22942979/130280569-453664f2-4ec6-44d0-beee-f0af7bdc7981.mov
 
 ## Features
 - [x] Simple GUI with textbox for the link to the media
